@@ -8,5 +8,5 @@ I have selected the following dataset to work with. The target is to classify im
 * The second implementation(Birds_RF) I am using VGG16 as an extractor and then I pass down the results to a Random Forest.
 
 
->**The .ipynb file contains detailed documentation**<br>
+>**The .ipynb files contain detailed documentation**<br>
 >[Bird Species Dataset](https://www.kaggle.com/datasets/gpiosenka/100-bird-species)
